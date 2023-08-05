@@ -1,4 +1,4 @@
-<h1 align="center">👋 Greetings, code adventurer! I'm Giuseppe</h1>
+<h1 align="center">👋 Greetings, digital adventurer! I'm Giuseppe</h1>
 <h3 align="center">Living by the motto "Never stop learning"</h3>
 
 - 👨‍💻 I’m currently turning caffeine into code at: **<a href="https://www.itdm.it/" target="_blank">ITDM</a>**
