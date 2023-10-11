@@ -6,3 +6,5 @@
 - 💻 Tech Arsenal: **HTML - CSS - Bootstrap - Javascript - Typescript - Angular - React - Java - Spring - Lua**
 
 - 🪲 If you are not a bug, connect with me on: **[LinkedIn](https://www.linkedin.com/in/giusepperenzi/)**
+
+[![An image of @renzigpp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/renzigpp)](https://holopin.io/@renzigpp)
